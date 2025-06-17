@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "Anirban",
+    "Department": "IT",
+    "Designation": "Software Engineer",
+    "Email": "anirban@example.com",
+    "DateOfJoining": "2023-01-15T00:00:00",
+    "Salary": 60000
+  },
+  {
+    "Id": 2,
+    "Name": "Ritika Nair",
+    "Department": "HR",
+    "Designation": "HR Manager",
+    "Email": "ritika@example.com",
+    "DateOfJoining": "2022-11-10T00:00:00",
+    "Salary": 75000.00
+  }
+]
